@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Python+Developer;AI+Enthusiast;Student)
 🌟 Little Learners App
 Little Learners is an interactive and engaging educational application designed for children under the age of 6 to help them learn basic English skills. The app includes visual aids, stories, rhymes, and interactive lessons that make early learning fun and effective.
 
